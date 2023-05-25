@@ -4,9 +4,9 @@ import random
 import socket
 import threading
 
-print("~~~ DDOS TOOLS KHUSUS TEAM JNE ~~~")
-print("~~~ Scripting By Hengker ~~~")
-print("~~~ Script ini dibuat hanya untuk TEAM XLEXSH1N. ~~~")
+print("~~~ Xclod Community ~~~")
+print("~~~ PaceLoynz ~~~")
+print("~~~ abuse is strictly prohibited ~~~")
 ip = str(input(" Target Ip:"))
 port = int(input(" Target Port:"))
 choice = str(input(" UDP(y/n):"))
